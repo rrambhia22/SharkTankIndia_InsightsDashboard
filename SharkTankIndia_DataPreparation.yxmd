@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\PowerBI Project\SharkTank Data\Shark Tank India.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Season Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Season Start" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Season End" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Episode Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Episode Title" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitch Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Startup Name" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Industry" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Business Description" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Company Website" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Number of Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Male Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Female Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Transgender Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Couple Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers Average Age" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Started in" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers City" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers State" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Yearly Revenue" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Monthly Sales" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Gross Margin" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Net Margin" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Original Ask Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Original Offered Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Valuation Requested" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Received Offer" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Accepted Offer" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Debt" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Debt Interest" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Deal Valuation" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Number of sharks in deal" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Deal has conditions" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Has Patents" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Name" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="138" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Season Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Season Start" selected="True" size="2147483647" />
+            <SelectField field="Season End" selected="True" size="2147483647" />
+            <SelectField field="Episode Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Episode Title" selected="True" />
+            <SelectField field="Pitch Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Startup Name" selected="True" />
+            <SelectField field="Industry" selected="True" />
+            <SelectField field="Business Description" selected="True" />
+            <SelectField field="Company Website" selected="True" />
+            <SelectField field="Number of Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Male Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Female Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Transgender Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Couple Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Pitchers Average Age" selected="True" />
+            <SelectField field="Started in" selected="True" size="2147483647" />
+            <SelectField field="Pitchers City" selected="True" />
+            <SelectField field="Pitchers State" selected="True" />
+            <SelectField field="Yearly Revenue" selected="True" type="Int64" size="8" />
+            <SelectField field="Monthly Sales" selected="True" type="Float" size="4" />
+            <SelectField field="Gross Margin" selected="True" type="Int64" size="8" />
+            <SelectField field="Net Margin" selected="True" type="Int64" size="8" />
+            <SelectField field="Original Ask Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Original Offered Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Valuation Requested" selected="True" type="WString" size="254" />
+            <SelectField field="Received Offer" selected="True" type="Int64" size="8" />
+            <SelectField field="Accepted Offer" selected="True" type="Int64" size="8" />
+            <SelectField field="Total Deal Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Total Deal Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Total Deal Debt" selected="True" type="Int64" size="8" />
+            <SelectField field="Debt Interest" selected="True" type="Int64" size="8" />
+            <SelectField field="Deal Valuation" selected="True" type="Double" size="8" />
+            <SelectField field="Number of sharks in deal" selected="True" type="Int64" size="8" />
+            <SelectField field="Deal has conditions" selected="True" />
+            <SelectField field="Has Patents" selected="True" type="Int64" size="8" />
+            <SelectField field="Ashneer Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Ashneer Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Ashneer Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Namita Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Namita Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Namita Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Anupam Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Anupam Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Anupam Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Vineeta Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Vineeta Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Vineeta Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Aman Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Aman Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Aman Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Peyush Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Peyush Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Peyush Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Ghazal Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Ghazal Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Ghazal Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Amit Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Amit Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Amit Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Guest Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Name" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="330" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Season Number","Season Start","Season End","Episode Number","Episode Title","Pitch Number","Startup Name","Industry","Business Description","Company Website","Number of Presenters","Male Presenters","Female Presenters","Transgender Presenters","Couple Presenters","Pitchers Average Age","Started in","Pitchers City","Pitchers State","Yearly Revenue","Monthly Sales","Gross Margin","Net Margin","Original Ask Amount","Original Offered Equity","Valuation Requested","Received Offer","Accepted Offer","Total Deal Amount","Total Deal Equity","Total Deal Debt","Debt Interest","Deal Valuation","Number of sharks in deal","Deal has conditions","Has Patents","Ashneer Investment Amount","Ashneer Investment Equity","Ashneer Debt Amount","Namita Investment Amount","Namita Investment Equity","Namita Debt Amount","Anupam Investment Amount","Anupam Investment Equity","Anupam Debt Amount","Vineeta Investment Amount","Vineeta Investment Equity","Vineeta Debt Amount","Aman Investment Amount","Aman Investment Equity","Aman Debt Amount","Peyush Investment Amount","Peyush Investment Equity","Peyush Debt Amount","Ghazal Investment Amount","Ghazal Investment Equity","Ghazal Debt Amount","Amit Investment Amount","Amit Investment Equity","Amit Debt Amount","Guest Investment Amount","Guest Investment Equity","Guest Debt Amount","Guest Name"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="462" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_CleanedDataset.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_CleanedDataset.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="330" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Season Number</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-09-05 23:45:03</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2</Operand>
+              <StartDate>2023-09-05 23:45:03</StartDate>
+              <EndDate>2023-09-05 23:45:03</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Season Number] = 2</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="738" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="942" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_FilteredDataset.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_FilteredDataset.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="342" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="Pitch Number" />
+            <Field field="Startup Name" />
+            <Field field="Industry" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="510" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="678" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_UniqueFilteredDataset.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_UniqueFilteredDataset.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="330" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>pie</type>
+              <mode>markers</mode>
+              <ysrc>Startup Name</ysrc>
+              <autocolorscale>true</autocolorscale>
+              <orientation>v</orientation>
+              <valuessrc>Pitch Number</valuessrc>
+              <labelssrc>Season Number</labelssrc>
+            </Traces>
+            <Layout>
+              <title>
+                <text>
+                </text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>-1.0002343983422413</range>
+                <range>2.6690622692770063</range>
+                <autorange>false</autorange>
+              </xaxis>
+              <yaxis>
+                <range>-43862.325858168995</range>
+                <range>164227.56515881591</range>
+                <autorange>false</autorange>
+                <title>
+                  <text>Startup Name</text>
+                </title>
+                <type>category</type>
+              </yaxis>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerRender.PortfolioComposerRender">
+        <Position x="462" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFileType>png</TempFileType>
+          <BatchMode value="False" />
+          <DataField>Chart</DataField>
+          <Separator>Continuous</Separator>
+          <EmbedDependencies value="False" />
+          <ShowHeader value="False" />
+          <ShowFooter value="False" />
+          <PortraitMode value="True" />
+          <PaperType Width="612" Height="792" Left="36" Right="36" Top="36" Bottom="36" />
+          <DefaultStyles>
+            <Style Name="TextStyle" FontName="Arial" FontSize="14" Justify="Left" ForeColor="#000000" Locale="1033" />
+          </DefaultStyles>
+          <PNGResolution>1</PNGResolution>
+          <PNGLargerAction>squeeze</PNGLargerAction>
+          <PNGLargerThanPageChoice>warning</PNGLargerThanPageChoice>
+          <PNGTransparentBG value="False" />
+          <PNGBackColor value="#ffffff" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerRenderPlugin" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings>
+        <Position x="522" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="CountRecords.yxmc" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="750" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="870" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_FilteredDataset2.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_FilteredDataset2.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output26" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="False" />
+      <Destination ToolID="24" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Unique" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output9" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>SharkTankIndia_DataPreparation</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="31a5a9d9-3eac-4b54-bf69-f24cc7b93017" />
+      <Telemetry>
+        <PreviousWorkflowId value="7f44cf67-cf29-4f88-8c68-5ef3ceab077e" />
+        <OriginWorkflowId value="41606dd4-cc1d-442e-bbfc-4e77959dbf68" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
